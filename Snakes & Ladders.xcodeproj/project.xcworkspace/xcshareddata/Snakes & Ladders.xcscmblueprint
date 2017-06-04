@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E82AF35253D3DA653782BA3574F284C7071B51EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7D71177F0545FAD760457D107667B2EB8DF6640C" : 9223372036854775807,
+    "E82AF35253D3DA653782BA3574F284C7071B51EB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F6BFEA8B-90E9-469C-9048-73E1430A9F47",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7D71177F0545FAD760457D107667B2EB8DF6640C" : "",
+    "E82AF35253D3DA653782BA3574F284C7071B51EB" : "Snakes&Ladders\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Snakes & Ladders",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Snakes & Ladders.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nalhoussari\/ObjectOrientedDesignConcepts.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D71177F0545FAD760457D107667B2EB8DF6640C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nalhoussari\/Snakes-Ladders.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E82AF35253D3DA653782BA3574F284C7071B51EB"
+    }
+  ]
+}
